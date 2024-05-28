@@ -2,6 +2,7 @@
 An AI-Powered (Gemini AI) application that can extract information from images.
 
 To run the project:
+
     * Set up an environment.
     -> Create a .env file with your Gemini Pro API key.
     -> Install all the libraries and dependencies from the requirements.txt.
